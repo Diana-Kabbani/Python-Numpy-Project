@@ -1,4 +1,4 @@
-## Structure of the working process: 
+## Structure of the working process
 1. *Introduce the project*
     1. The data scientist team wants to create a credit risk model, which estimates the probability  of default for every personal account. Our mission is to  take the raw dataset and prepare it for the model. The data scientist informed us what type of data is stored, and how to clean and preprocess it.
 2. *Tasks and responsibilities*
